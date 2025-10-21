@@ -1,6 +1,4 @@
-[
-  {
-    "alarm": "true",
-    "message": "lunch time"
-  }
-]
+{
+  "alarm": "true",
+  "message": "lunch time"
+}
